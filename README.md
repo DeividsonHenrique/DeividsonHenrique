@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/deividsonhenry_/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deividson-henrique-03654a16b/)
 
-![Deividson Henry GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividsonHenrique&show_icons=true&theme=dracula) 
+![Deividson Henry GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividsonHenrique&show_icons=true&theme=dark) 
 
 ### Technologies used by me:
 <p>Tecnologias que eu uso:</p> 
