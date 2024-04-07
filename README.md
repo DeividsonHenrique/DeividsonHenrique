@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deividson-henrique-03654a16b/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@deivid_henry)
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=DeividsonHenrique&show_icons=true&theme=highcontrast"/> &nbsp; <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividsonHenrique&layout=compact&theme=highcontrast"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeividsonHenrique&show_icons=true&theme=highcontrast"/> &nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividsonHenrique&layout=compact&theme=highcontrast"/>
 
 
 
