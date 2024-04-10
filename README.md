@@ -2,10 +2,10 @@
 <hr>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/deividsonhenry_/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deividson-henrique-03654a16b/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deividsonhenrique/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@deivid_henry)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeividsonHenrique&show_icons=true&theme=highcontrast"/> &nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividsonHenrique&layout=compact&theme=highcontrast"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=DeividsonHenrique&show_icons=true&theme=highcontrast"/> &nbsp; <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividsonHenrique&layout=compact&theme=highcontrast"/>
 
 
 
@@ -18,7 +18,6 @@
   <img align="center" height="40em" alt="BOOTSTRAP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" height="40em" alt="TAILWINDCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" height="40em" alt="JAVASCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" height="40em" alt="TYPESCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" height="40em" alt="JQUERY" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg">
   <img align="center" height="40em" alt="REACT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" height="40em" alt="NODEJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
