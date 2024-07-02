@@ -33,3 +33,6 @@
 <br>
 <hr>
 <p>Sempre melhorando e buscando mais aprendizados pela tecnologia!!</p>
+
+![Visitas no perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DeividsonHenrique&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
+
